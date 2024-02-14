@@ -374,9 +374,6 @@
         display: block;
     }
 
-    .pstn-rel {
-        position: relative;
-    }
 }
 
 @media (min-width:576px) {
@@ -398,9 +395,6 @@
         display: flex;
     }
 
-    .pstn-rel {
-        position: relative;
-    }
 }
 
 @media (min-width:768px) {
@@ -414,9 +408,7 @@
         display: flex;
     }
 
-    .pstn-rel {
-        position: relative;
-    }
+    
 }
 
 @media (min-width:1200px) {
@@ -489,6 +481,10 @@
     }
 
     .pstn-rel {
+        position: relative;
+    }
+
+    .sctn-3 {
         position: relative;
     }
 }
