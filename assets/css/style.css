@@ -373,6 +373,10 @@
     .d-block {
         display: block;
     }
+
+    .pstn-rel {
+        position: relative;
+    }
 }
 
 @media (min-width:576px) {
@@ -393,6 +397,10 @@
     .d-flex {
         display: flex;
     }
+
+    .pstn-rel {
+        position: relative;
+    }
 }
 
 @media (min-width:768px) {
@@ -404,6 +412,10 @@
 
     .d-flex {
         display: flex;
+    }
+
+    .pstn-rel {
+        position: relative;
     }
 }
 
@@ -474,5 +486,9 @@
     .h-2 {
         font-size: 75px;
         line-height: normal;
+    }
+
+    .pstn-rel {
+        position: relative;
     }
 }
